@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:To;Chin Liang;;;
+FN: To Chin Liang 
+ORG:INTRINSIC;
+TITLE:
+EMAIL;type=INTERNET;type=WORK;type=pref:inquiries.intrinsic@gmail.com
+TEL;type=WORK;type=VOICE:+65 9725 634
+item1.ADR;type=WORK;type=pref:;;
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:https://www.instagram.com/intrinsiclabel/
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
